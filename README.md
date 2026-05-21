@@ -83,4 +83,9 @@ deactivate
 - Para practicar algoritmos de datos:
   - https://www.alg0.dev/
 
+- Creación de interfaces con Flet
+  - https://flet.dev/docs
+  - https://github.com/MagnoEfren/flet
+  - https://fletplaygraund.pages.dev/
+
 - Api que se utiliza para el ejercicio: https://fakestoreapi.com/docs#tag/Products/operation/getAllProducts
