@@ -16,12 +16,16 @@ Bienvenido en esta parte encontraras recursos para aprender Python.
 - **Clase 03** — Módulo Matemático
 - **Clase 04** — Expresiones Regulares
 - **Clase 05** — Estructuras de control
+- **Clase 06** — Programación orientada a objetos
+- **Clase 07** — Algoritmos y complejidad algoritmica
+- **Clase 08** — Patrones de diseño y principios SOLID
 
 ### Proyectos
 - **automatizar_facturas** — Extracción automática de facturas con expresiones 
 regulares para una empresa que vende accesorios de motocicletas. El registro 
 manual tomaba 10 o más minutos y se redujo a menos de 5 minutos.
 - **Consumimos una API** - Consumo de API y se aplica lo aprendido del ciclo for.
+- **App gestion de tareas**
   
 ## ⚙️ Configuración del entorno virtual
 
@@ -82,6 +86,8 @@ deactivate
 
 - Para practicar algoritmos de datos:
   - https://www.alg0.dev/
+  - https://pythontutor.com/
+  - https://pypi.org/project/big-O-calculator/
 
 - Creación de interfaces con Flet
   - https://flet.dev/docs
