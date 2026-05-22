@@ -86,7 +86,6 @@ deactivate
 
 - Para practicar algoritmos de datos:
   - https://www.alg0.dev/
-  - https://pythontutor.com/
   - https://pypi.org/project/big-O-calculator/
 
 - Creación de interfaces con Flet
