@@ -93,4 +93,13 @@ deactivate
   - https://github.com/MagnoEfren/flet
   - https://fletplaygraund.pages.dev/
 
-- Api que se utiliza para el ejercicio: https://fakestoreapi.com/docs#tag/Products/operation/getAllProducts
+- Para uno de los proyectos se va a necesitar descargar telegram para eso seguir los pasos:
+  - Descargamos esta aplicación https://play.google.com/store/search?q=1.1.1.1&c=apps
+  - Una vez activada la aplicación, abrimos telegram.
+  - Listo aceptas y te crea la cuenta rápido gratis. Una vez creado, desactiva la anterior aplicación.
+  - Para el Bot: En el buscador tienes que poner `@BotFather` todo completo para que te aparesca y seleccionas el que te aparece con verificado.
+  - Le das a start. Para crear el /newbot sigue las instrucciones y crea tu bot.
+  - Seguimos la doumentación https://core.telegram.org/bots/samples y https://github.com/eternnoir/pyTelegramBotAPI
+
+- Api que se utiliza para uno de los ejercicio: 
+  - https://fakestoreapi.com/docs#tag/Products/operation/getAllProducts
