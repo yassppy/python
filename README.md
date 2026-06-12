@@ -121,7 +121,7 @@ deactivate
 | Recurso | Enlace |
 |---------|--------|
 | alg0.dev | [alg0.dev](https://www.alg0.dev/) |
-| Big-O Calculator (PyPI) | [pypi.org](https://pypi.org/project/big-O-calculator/) |
+| Grokking Algorithms | [Grokking Algorithms](https://github.com/egonSchiele/grokking_algorithms) |
 
 ---
 
