@@ -1,7 +1,7 @@
 # Estructuras de Datos y Algoritmos (Data Structures and Algorithms)
 
 ## Algoritmos (Algorithms)
-Es un conjunto finito de instrucciones secuenciales y lógicas que se le dan a una computadora para resolver un problema específico.
+Es un conjunto de intrucciones para realizar una tarea específica.
 
 ## Estructuras de Datos (Data Structures)
 Son herramientas que nos permiten organizar, almacenar y manipular datos de manera eficiente mientras ejecutamos un algoritmo.
@@ -82,7 +82,7 @@ Es una estructura lineal que sigue un orden estricto de acceso basado en el prin
 * > 💡 **Analogía Feynman:** Es exactamente igual a una pila de platos limpios en la cocina. El último plato que lavas lo pones arriba de todos (`Push`), y cuando alguien necesita un plato para comer, toma obligatoriamente ese mismo que pusiste al último (`Pop`). No puedes sacar el plato de abajo sin destruir la torre.
 
 ### 3. Colas (Queues)
-Es una estructura lineal basada en el principio **FIFO** (*First-In, First-Out*: El primero en entrar es el primero en salir).
+Es una estructura lineal basada en el principio **FIFO** (*First-In, First-Out*: El primero en entrar es el primero en salir). Tiene muchos casos reales como guardar la orden de impresión, en aplicaciones donde el orden de solicitudes del usuario es importante como la venta de entradas para un concierto.
 
 * **Operaciones Clave:**
     * **`Enqueue`:** Añade un elemento al final de la cola (`Tail`). Complejidad: **$O(1)$**.
